@@ -1,0 +1,15 @@
+.ozellikler {
+  display: flex;
+  flex-direction: column;
+}
+.isimler {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  background-color: antiquewhite;
+  justify-content: center; /* Yatayda ortala */
+  align-items: center; /* Dikeyde ortala */
+}
+p {
+  background-color: aliceblue;
+}
